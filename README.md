@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello GitHub, I'm Johan
+
+I'm a University Lecturer in Computer Science and sometimes professional Data Scientist. I currently teach introductory programming to a couple of hundred fresh Engineering and Cognitive Science students every year. On top of that I teach a few applied programming courses in different areas and supply single lectures here and there for a few more. I also teach some introductory Discrete Math. I used to do research in Applied Statistics and Machine Learning for Natural Language Processing and still collaborate on a paper now and then.
+
+- I'm currently working on the problem of how to teach programming in a world with LLM-based chatbots who are proficient enough to solve most problems posed in an introductory course. I.e. how do we convince students to actually learn the basics necessary for more advanced study when all the example problems we can reasonably give in a CS1 course can be solved by asking ChatGPT?
+- I'm currently re-learning GUI development using basic HTML/CSS/JavaScript (without frameworks) in order to teach a course later this fall.
 
 <!--
 **Falkenjack/Falkenjack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
